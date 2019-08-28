@@ -15,7 +15,7 @@ description: 'FFF is the best!
 '
 show_excerpts: false
 minima:
-  date_format: "%d %b %Y"
+  date_format: "%Y-%m-%d %H:%M"
   social_links:
     twitter: fff
     rss: rss
