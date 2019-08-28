@@ -25,5 +25,5 @@ plugins:
 - jekyll-seo-tag
 header_pages:
 - index.md
-- events.md
+- events.markdown
 - about.md
