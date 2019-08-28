@@ -1,7 +1,7 @@
 ---
 title: Events
 date: 2019-08-29 00:31:00 +02:00
-position: 0
+position: 1
 layout: page
 ---
 
