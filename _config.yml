@@ -8,11 +8,13 @@ collections:
   uploads:
     title: Uploads
     output: true
-author: FFF
+author: Fox Force Five ASD
 email: fff@fff.com
-description: 'FFF is the best!
-
-'
+description: |
+  FFF is the best!
+  Via del Ciap 23
+  Somewhere over the Rainbow
+  Null Island
 show_excerpts: false
 minima:
   date_format: "%d/%m/%Y"
