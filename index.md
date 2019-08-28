@@ -1,6 +1,6 @@
 ---
 title: Home
-position: 0
+position: 2
 Field name: 
 layout: home
 ---
