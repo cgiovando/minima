@@ -15,10 +15,9 @@ description: 'FFF is the best!
 '
 show_excerpts: false
 minima:
-  date_format: "%b %-d, %Y"
+  date_format: "%d %b %Y"
   social_links:
-    twitter: jekyllrb
-    github: jekyll
+    twitter: fff
     rss: rss
 theme: minima
 plugins:
