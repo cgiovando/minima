@@ -1,5 +1,6 @@
 ---
 title: Welcome to FFF
+position: 0
 Field name: 
 layout: home
 ---
