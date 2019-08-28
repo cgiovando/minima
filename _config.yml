@@ -19,6 +19,7 @@ minima:
   social_links:
     twitter: fff
     rss: rss
+    instagram: fff
 theme: minima
 plugins:
 - jekyll-feed
